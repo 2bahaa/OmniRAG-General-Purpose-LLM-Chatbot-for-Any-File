@@ -27,3 +27,7 @@ Ask any question
 Get answers pulled directly from your file
 
 💡 Ideal for students, researchers, and developers who want AI-enhanced PDF Q&A without backend complexity.
+![image](https://github.com/user-attachments/assets/04882751-00cd-4bbb-a556-0f761a9cc1c0)
+
+
+![image](https://github.com/user-attachments/assets/88d34336-7402-4017-98a7-34b5d5569068)
