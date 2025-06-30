@@ -1,27 +1,29 @@
-# OmniRAG-General-Purpose-LLM-Chatbot-for-Any-File
+# OmniRAG General-Purpose LLM-Chatbot for custom use
 🌾 LLaMA 3.2 PDF Chatbot using RAG
 Interact with your PDFs using AI 🤖📄
 
 This project lets you upload any PDF and chat with it in real-time using LLaMA 3.2 and Retrieval-Augmented Generation (RAG) — all hosted in Google Colab with no API keys required.
 
-🔍 Features
-✅ Upload your own PDF through a clean web interface
+ **Features**:
 
-🧠 Uses LLaMA 3.2 (local inference via Ollama)
+Upload your own PDF through a clean web interface
 
-📎 RAG-powered, accurate question answering
+Uses LLaMA 3.2 (local inference via Ollama)
 
-🌐 Runs entirely inside Colab — no need for ngrok or external hosting
+RAG-powered, accurate question answering
 
-💬 Ask questions and get human-like answers instantly
+Runs entirely inside Colab — no need for ngrok or external hosting
 
-🚀 Try it in seconds
-🔗 Open Colab
+Ask questions and get human-like answers instantly
 
-📤 Upload your PDF
+**Try it in seconds :**
 
-🤔 Ask any question
+Open Colab
 
-📚 Get answers pulled directly from your file
+Upload your PDF
+
+Ask any question
+
+Get answers pulled directly from your file
 
 💡 Ideal for students, researchers, and developers who want AI-enhanced PDF Q&A without backend complexity.
